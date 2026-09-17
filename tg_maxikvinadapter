@@ -1,4 +1,5 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443/?type=tcp&encryption=none&flow=&security=tls#%40AboutNPV
+hy2://9a9cf0c7-ff12-4545-970e-21b39ece9a5d@de1.apexvpn.space:443/?sni=de1.apexvpn.space#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20proxy
 hy2://9a9cf0c7-ff12-4545-970e-21b39ece9a5d@fin1.apexvpn.space:443/?sni=fin1.apexvpn.space#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20proxy
 vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@shprcdn.homes:7443/?type=xhttp&encryption=none&flow=&sni=shprcdn.homes&fp=chrome&security=reality&pbk=ypzgxQ7VhTlTqjT0pAzWBIyotcG7SYqMpErwMBDci0g&sid=#%F0%9F%87%AA%F0%9F%87%BA%20AUTO%20%E2%80%93%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20FurkLTE
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@dismissaltree.net:2053/?type=xhttp&encryption=none&flow=&security=tls&sni=dismissaltree.net&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20test%20FurkLTE
