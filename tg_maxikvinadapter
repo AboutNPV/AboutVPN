@@ -20,3 +20,7 @@ hysteria2://6e8b8adc-8782-4f42-b260-81b03ab5fbb2@de-c.sharkygames.fun:443/?sni=d
 hysteria2://6e8b8adc-8782-4f42-b260-81b03ab5fbb2@pl-i.sharkygames.fun:443/?sni=pl-i.sharkygames.fun#%F0%9F%87%B5%F0%9F%87%B1%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20proxy
 hysteria2://6e8b8adc-8782-4f42-b260-81b03ab5fbb2@rix.sharkygames.fun:443/?sni=rix.sharkygames.fun#%F0%9F%87%B1%F0%9F%87%BB%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20proxy
 hysteria2://6e8b8adc-8782-4f42-b260-81b03ab5fbb2@ee.sharkygames.fun:443/?sni=ee.sharkygames.fun#%F0%9F%87%AA%F0%9F%87%AA%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20proxy
+vless://44a27538-d045-4391-8ddf-2550b338e0ae@s1g.pinkvpn.ru:443?encryption=none&path=%2Fsequre%2Fws&security=tls&sni=s1g.pinkvpn.ru&type=ws#%F0%9F%87%AA%F0%9F%87%BA%20EU%20FAST%20proxy
+vless://44a27538-d045-4391-8ddf-2550b338e0ae@grpc1.pinkvpn.ru:443?alpn=h2&encryption=none&security=tls&serviceName=sequre-grpc&sni=grpc1.pinkvpn.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%BA%20EU%20FAST%20proxy-5
+vless://44a27538-d045-4391-8ddf-2550b338e0ae@grpc1.pinkvpn.ru:443?alpn=h2&encryption=none&security=tls&serviceName=sequre-grpc&sni=grpc1.pinkvpn.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%BA%20EU%20FAST%20proxy-6
+vless://44a27538-d045-4391-8ddf-2550b338e0ae@grpc1.pinkvpn.ru:443?alpn=h2&encryption=none&security=tls&serviceName=sequre-grpc&sni=grpc1.pinkvpn.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%BA%20EU%20FAST%20proxy-7
