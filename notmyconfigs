@@ -1,5 +1,6 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443/?type=tcp&encryption=none&flow=&security=tls#%40AboutNPV
 
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de.pleiades.codes:443?alpn=h2&encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de.pleiades.codes&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20WI-FI
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.178:9830?encryption=none&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20(AUTO)%2020
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@213.171.25.29:9889?encryption=none&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20(AUTO)%207
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@85.208.86.91:9872?encryption=none&fp=chrome&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20(AUTO)%206
