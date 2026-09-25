@@ -1,4 +1,4 @@
-.
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443/?type=tcp&encryption=none&flow=&security=tls#%40AboutNPV
 
 vless://89e7af8e-3d93-4307-be22-3aa8d4a3fcfa@93.190.9.131:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%23%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20fast%20%E2%80%A2%20TG%20@RE_s_B
 vless://89e7af8e-3d93-4307-be22-3aa8d4a3fcfa@93.190.9.109:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%23%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20germany%20%E2%80%A2%20TG%20@RE_s_B
